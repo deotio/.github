@@ -1,4 +1,4 @@
 # Salve
 
 De Otio on GitHub is the intersection of technology with
-cosmic perspectives and fundamental questions.
+cosmic perspectives and fun questions.
